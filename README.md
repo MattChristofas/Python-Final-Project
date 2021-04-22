@@ -49,3 +49,34 @@ A minecraft based storyline game that allows the player lots of variety in choic
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 My next steps are to begin brainstorming the storyline, actually begin the coding, and then decide when to implement different choices into the storyline and how those decisions will impact the outcome of the game.
+
+
+# Status Report
+
+Matthew Christofas
+
+TODO
+
+#### Your section leader's name
+
+Joanne Nichols
+
+#### Project title
+
+The Ultimate Minecraft Story Adventure
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have written the majority of the storyline and have implemented a few different decisions for the player. I am starting to work on developing the different endings and how they will unfold.
+
+#### What have you not done for your project yet?
+
+Need to finish the different endings and figure out how the earlier decisions can have more importance by the end of the story. Also, I need to create a user prompt to restart the game.
+
+#### What problems, if any, have you encountered?
+
+It hasn't been as easy as I had expected it to be in trying to program how the different decisions will impact the endings.
