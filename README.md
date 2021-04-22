@@ -55,7 +55,7 @@ My next steps are to begin brainstorming the storyline, actually begin the codin
 
 Matthew Christofas
 
-TODO
+Write out the endings and decide how earlier decisions will affect endings. Create a user prompt to restart the game.
 
 #### Your section leader's name
 
