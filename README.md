@@ -80,3 +80,8 @@ Need to finish the different endings and figure out how the earlier decisions ca
 #### What problems, if any, have you encountered?
 
 It hasn't been as easy as I had expected it to be in trying to program how the different decisions will impact the endings.
+
+#### FINAL PROJECT YOUTUBE LINK AND ADDITIONAL INFO
+https://youtu.be/9HF4Fi0P5pY
+
+In this video I give a demonstration of the program I created for my final project in my intro to python programming course. The game is a minecraft based storyline game in which the player makes choices that affect the outcomes and different endings of the game. The most difficult part of this for me was trying to plan out all the different routes within the game and how to make them work smoothly. Also, I tried to include something new which was the time library. It just provides a small amount of time in between each text passage is revealed. This allows for the player to read some of the story before the next passage is printed. I also implemented a continue game feature after the player loses so that they do not need to repeatedly rerun the program. There is also a custom end game message if they player decides to not play again from whatever point in the story they died.
